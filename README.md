@@ -7,4 +7,4 @@ The main issues I have are:
 - Although I know JavaScript, I can’t use it practically (eg. I can’t make a website, but I can use it to edit a website via DevTools)
 - I have an extremely slow PC, and I do not have any good tools for code editing. (I have VSCode, but I do not know how to use it to easily make CSS code or a website) Am I supposed to code in it and paste into a website’s code, or can I automate or integrate something so my code automatically runs on the website?
 
-In short, I could do with talking to someone who has more experience than me for even just 30 minutes.
+In short, I could do with talking to someone who has more experience than me for even just 30 minutes. Looking for a friend here.
